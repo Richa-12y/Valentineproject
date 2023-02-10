@@ -12,9 +12,12 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 --
+
 this small project is made by using html,css reac js 
+
 ---
 
 Here is the depolyed link:-
-(Valentineproject)["https://enchanting-bienenstitch-847136.netlify.app/"]
+
+(Valentineproject)[https://enchanting-bienenstitch-847136.netlify.app/]
 
